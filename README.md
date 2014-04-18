@@ -15,3 +15,4 @@ concerning using signed with unsigned. The fixes that worked are as follows:
 #Demos
 
 ALU Simulation: Checked in class 8 April 2014
+Datapath Simulation: Checked two days late
